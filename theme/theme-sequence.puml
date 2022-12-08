@@ -1,4 +1,4 @@
-!include https://raw.githubusercontent.com/Bunnings-Engineering/plantuml.theme/main/theme/theme-colours.puml"
+!include https://raw.githubusercontent.com/Bunnings-Engineering/plantuml.theme/main/theme/theme-colours.puml
 !$theme = "BunningsSequence" 
 
 <style>
