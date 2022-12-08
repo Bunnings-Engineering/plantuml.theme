@@ -1,5 +1,5 @@
-!include "theme-base.puml"
-!$theme = "bunnings" 
+!include "theme-colors.puml"
+!$theme = "BunningsSequence" 
 
 <style>
 root {   
