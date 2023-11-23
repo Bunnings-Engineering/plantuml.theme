@@ -43,5 +43,10 @@ skinparam SequenceLifeLine {
     BorderColor black
 }
 
+skinparam database {
+    BackgroundColor $BGreen25
+    BorderColor $BGreen
+}
+
 skinparam BoxPadding 5
 skinparam ParticipantPadding 5
