@@ -1,0 +1,63 @@
+!$theme = "bunnings" 
+
+'' Bunnings Defined Colours
+!$BBeige = "#EEE7D8"
+!$BBlue = "#007AC9"
+!$BLightBlue = "#61dafb"
+!$BDarkBlue = "#00297a"
+!$BGreen = "#27AE60"
+!$BRed = "#DA291C"
+!$BYellow = "#F0AB80"
+!$BPurple = "#5D3FD3"
+!$BPeach = "#FAE5D3"
+!$BBrightPurple = "#832e8c"
+!$BTurquoise = "#5261f7"
+
+<style>
+root {   
+}
+</style>
+
+
+skinparam {
+    DefaultTextAlignment center
+    Shadowing true
+}
+
+skinparam SequenceArrow {
+    Color Black
+    Bordercolor Black
+}
+
+skinparam actorStyle awesome
+skinparam SequenceActor {
+    BackgroundColor $BBeige
+    BorderColor Black
+}
+
+skinparam box {
+    BorderColor Black
+    BackgroundColor Red
+}
+
+skinparam Note {
+    BorderColor Black
+    BackgroundColor White
+}
+
+skinparam SequenceParticipant {
+    BackgroundColor $BGreen
+    FontColor Black
+    BorderColor Black
+    BackgroundColor White
+}
+
+skinparam SequenceGroup {
+    BackgroundColor $BBeige
+    BorderColor Black
+}
+
+skinparam SequenceLifeLine {
+    BackgroundColor $BBeige
+    BorderColor Black
+}
